@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "G. Berlat",
+      "email": "gb@gmail.com",
+      "age": 55
+    },
+    {
+      "id": "3",
+      "name": "Olivier Bernard",
+      "email": "ob@gmail.com",
+      "age": 40
+    },
+    {
+      "id": "4",
+      "name": "Jean-Paul Rouve",
+      "email": "jpr@gmail.com",
+      "age": 39
+    },
+    {
+      "id": "5",
+      "name": "Marie Currie",
+      "email": "mr@gmail.com",
+      "age": 150
+    },
+    {
+      "id": "6",
+      "name": "Michiko D",
+      "email": "md@gmail.com",
+      "age": 3
+    },
+    {
+      "id": "7",
+      "name": "Reiko D",
+      "email": "reiko@gmail.com",
+      "age": 37
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "kBapuAd"
+    }
+  ]
+}
